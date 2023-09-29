@@ -7,6 +7,10 @@
 * **Veri Seti :** [Northwind Veri Seti](https://github.com/pthom/northwind_psql/blob/master/northwind.sql)
 * **Çalışmanın Notebook Dosyası :** [Bitirme Projesi Jupyter Notebook](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-2/blob/main/Capstone%20Project%20SQL%20Vis..ipynb)
 
+## 📌Veri Seti Tablo İlişkileri ve PostgreSQL ERD :
+
+![img](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-2/blob/main/Tablo%20%C4%B0li%C5%9Fkileri.png)
+![img](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-2/blob/main/ERD.png)
 ## 📌İstenen Senaryolar : 
 🚀**CASE 1 - Tedarikçi Analizi :**
 
