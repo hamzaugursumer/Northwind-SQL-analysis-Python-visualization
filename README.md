@@ -8,7 +8,7 @@
 * **Veri Setinin içeriğinde müşteriler, tedarikçiler, taşıma şirketleri, ürünler ve bu ürünlerin ait olduğu kategoriler, ürünlerin kargo maliyetleri, fiyatları, satılan adetleri vs. gibi birçok veri bulunmakta ve tamamen gıda ürünlerine ait birbirinden farklı challengelar sunmakta bizlere.**
 * **Çalışmanın Notebook Dosyası :** [Bitirme Projesi Jupyter Notebook](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-2/blob/main/Capstone%20Project%20SQL%20Vis..ipynb)
 
-## 📌**Veri Seti İçerisindeki Tablalar ve Sütun Açıklamaları** :
+## 📌**Veri Seti İçerisindeki Tablalar ve Sütun Açıklamaları :**
 
 * **Tablo Adı: CATEGORIES**
 
