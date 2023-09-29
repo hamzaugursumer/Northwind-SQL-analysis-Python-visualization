@@ -178,3 +178,10 @@
 🚀**CASE 4 - Taşıma Şirketi Performans Analizi :**
 
 * Şirket çalıştığı kargo firmalarının ne kadar teslimat yaptığını, ortalama teslimat sürelerini ve müşteri için istenilen ortalama teslimat sürelerini istemektedir. Ek olarak ortalama kargo maliyetleri de istenmektedir.
+
+
+
+**NOT :**
+* Bu proje ile birlikte e-ticaret verilerinde veri analistinden beklenen görevlerin ve bunlardan alınan sonuçların görselleştirilmesinin ve sunulması gerektiğinin ne kadar önemli olduğunu farkettim. Bu proje ile öğrendğim şeyler kendime yeni bilgiler katmama da çok yardımcı oldu.
+* Bu projeyi başarıyla tamamlamamda yardımcı olan herkese teşekkür etmek isterim. Ayrıca, herhangi bir geri bildiriminiz veya öneriniz varsa, lütfen çekinmeden paylaşın. Bu, gelecekteki çalışmalarımızı daha da iyileştirmemize yardımcı olacaktır.
+Son olarak ⭐ vermeyi unutmayın, Teşekkürler.
